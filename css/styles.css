@@ -261,6 +261,17 @@ footer {
 
 
 
+/* styles for portfolio pages */
+
+.patriot-img {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+
 
 @media (min-width: 600px) {
     
