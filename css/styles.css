@@ -393,8 +393,8 @@ textarea {
     .header-nav {
         flex-direction: row;
         justify-content: space-between;
-        align-items: baseline;
-        padding: 0 100px;
+        margin-left: 10px;
+        padding: 0 150px;
     }
 
     nav ul {
