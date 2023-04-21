@@ -81,7 +81,8 @@ h1 {
     width:100%;
     height: auto;
     overflow: hidden;
-    padding: 10px 0 15px 0;
+    border-radius: 50%;
+    border: 3px double #ff9999;
 }
 
 h3 {
@@ -366,10 +367,6 @@ textarea {
         font-size: 2.6rem;
         line-height: 2em;
         margin-right: 30px;
-    }
-
-    .image-fluid {
-        padding-bottom: 75px;
     }
 
     .skills-list {
